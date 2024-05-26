@@ -43,10 +43,4 @@ ipyleaflet
 # Python: plotting libraries (optional)
 plotly>=5,<6
 bqplot
-
-
-# For loading excel spreadsheets into pandas.
-pandas
-matplotlib
-numpy
 openpyxl
