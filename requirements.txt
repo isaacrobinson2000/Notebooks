@@ -3,6 +3,8 @@ jupyterlite-core==0.3.0
 jupyterlab~=4.1.6
 notebook~=7.1.2
 
+# widgets...
+ipywidgets
 
 # Python kernel (optional)
 jupyterlite-pyodide-kernel==0.3.1
@@ -39,6 +41,9 @@ ipympl>=0.8.2
 ipycanvas>=0.9.1
 # Python: ipyleaflet library for Jupyter notebooks (optional)
 ipyleaflet
+
+# Interactive support:
+jupyterlab-webrtc-docprovider
 
 # Python: plotting libraries (optional)
 plotly>=5,<6
